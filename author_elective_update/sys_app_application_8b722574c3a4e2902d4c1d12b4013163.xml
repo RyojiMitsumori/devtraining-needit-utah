@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 08:27:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8b722574c3a4e2902d4c1d12b4013163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_8b722574c3a4e2902d4c1d12b4013163</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 08:27:47</sys_updated_on>
+        <title>NeedIt</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2d64e5c73beb8ad0986d048aa4e45ad3</instance_id>
+        <instance_name>dev279154</instance_name>
+        <name>sys_app_application_8b722574c3a4e2902d4c1d12b4013163</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>x_58872_needit.needit_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-25 08:27:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8b722574c3a4e2902d4c1d12b4013163</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_8b722574c3a4e2902d4c1d12b4013163</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-25 08:27:47</sys_updated_on><title>NeedIt</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>345715304</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>5dfe88aac39ce6502d4c1d12b40131c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 08:27:47</sys_created_on>
+        <sys_id>c5a26134c3a4e2902d4c1d12b40131d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195cc6a34c50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 08:27:47</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>c9a261345ca4e29015b214ba289c03d1</update_guid>
+        <update_guid_history>c9a261345ca4e29015b214ba289c03d1:345715304</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt">4c7965bcc3a4e2902d4c1d12b4013197</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 08:57:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>1bedc30bafd9458ab2a5437bf406e0c4</sys_id>
+        <sys_metadata>8b722574c3a4e2902d4c1d12b4013163</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_8b722574c3a4e2902d4c1d12b4013163</sys_update_name>
+        <sys_update_version display_value="sys_app_application_8b722574c3a4e2902d4c1d12b4013163">c5a26134c3a4e2902d4c1d12b40131d2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 08:57:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
